@@ -37,4 +37,4 @@ RobocodeRobot is an advanced robot designed for the [Robocode programming game](
 
 ### License
 
-This project is licensed under the [MIT License](LICENSE.md). See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
